@@ -1,6 +1,7 @@
 {
 	"update": {
 		"version": 1.0,
-		"optional": false
+		"optional": false,
+		"link" : "https://google.com"
 	}
 }
